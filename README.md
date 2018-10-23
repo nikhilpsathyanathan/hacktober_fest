@@ -38,9 +38,9 @@ Hi there, if you are reading this then probably you are new to open source and l
 1. Star this repository :wink:
 2. Fork this repository
 3. Clone **forked** repository  
-  `git clone https://github.com/your-username/code-hacktober`
+  `git clone https://github.com/your-username/hacktober_fest`
 4. Change your directory.  
-  `cd code-hacktober`
+  `cd hacktober_fest`
 3. Open `CONTRIBUTIONS.md` and enter details in the following format  
 ```
    Name: "Your name here"  
