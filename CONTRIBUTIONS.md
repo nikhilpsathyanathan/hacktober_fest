@@ -8,5 +8,5 @@
  ### Name: Johnbritto Johnson  
  -Place: kerala, india  
  -Bio: Android dev  
- -Github: [Nikhil ps](https://github.com/johnbrittojohnson)  
- -Linkedin: [Nikhil PS](https://www.linkedin.com/in/johnbrittojohnson/) 
+ -Github: [Johnbritto Johnson](https://github.com/johnbrittojohnson)  
+ -Linkedin: [Johnbritto Johnson](https://www.linkedin.com/in/johnbrittojohnson/) 
