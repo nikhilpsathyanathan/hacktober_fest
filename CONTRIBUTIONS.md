@@ -26,3 +26,9 @@
  -Bio: Android dev  
  -Github: [Sreerag O Dileep](https://github.com/Sreerag-O-Dileep)  
  -Linkedin: [Sreerag O Dileep](https://www.linkedin.com/in/sreerag-dileep)  
+
+ ### Name: Johnbritto Johnson  
+ -Place: kerala, india  
+ -Bio: Android dev  
+ -Github: [Johnbritto Johnson](https://github.com/johnbrittojohnson)  
+ -Linkedin: [Johnbritto Johnson](https://www.linkedin.com/in/johnbrittojohnson/) 
