@@ -10,4 +10,4 @@
  -Place: kerala, india  
  -Bio: Raw recruit  
  -Github: [Sanath_Harish](https://github.com/sanathharish)  
- -Linkedin: [Nikhil PS](https://www.linkedin.com/in/sanathharish/)  
+ -Linkedin: [Sanath_Harish](https://www.linkedin.com/in/sanathharish/)  
