@@ -56,3 +56,6 @@ Hi there, if you are reading this then probably you are new to open source and l
    `git push origin master`
 6. Create a pull request.
 7. Sit back and relax while your pull request is reviewed and merged.
+Name: "Vineetha"  
+   Place: "Kerala,India"  
+   Github: [vineethaaa](https://github.com/vineethaaa)  
