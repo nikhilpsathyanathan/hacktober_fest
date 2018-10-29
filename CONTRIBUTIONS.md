@@ -6,7 +6,11 @@
  -Bio: Android dev  
  -Github: [Nikhil ps](https://github.com/nikhilpsathyanathan)  
  -Linkedin: [Nikhil PS](https://www.linkedin.com/in/nikhilpsathyanathan/)  
- 
+
+### Name: Reshma ks 
+ -Place: kerala, india  
+ email :reshmaks755@gmail.com
+  
 ### Name: [Nair Rohit Ravunnikutty](https://github.com/innovative-roh)
   Place: kerala, india    
   Github: [innovative-roh](https://github.com/innovative-roh)  
