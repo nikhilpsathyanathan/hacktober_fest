@@ -12,7 +12,7 @@ Hi there, if you are reading this then probably you are new to open source and l
   * Git
   * Any IDE of your choice (for ex. sublime text and atom)
 
-### Installing git:
+#### Installing git:
 
 - Ubuntu:  `sudo apt-get install git`
 - Windows: [Download](https://git-scm.com/download/win)
@@ -56,3 +56,4 @@ Hi there, if you are reading this then probably you are new to open source and l
    `git push origin master`
 6. Create a pull request.
 7. Sit back and relax while your pull request is reviewed and merged.
+
